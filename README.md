@@ -23,4 +23,4 @@ After understanding the objective and the problem statement, we went forward to 
 
 Various other data cleaning steps can be applied as per your requirement. Now moving on to the **Data Preparation/Processing** part, the necessary steps are:
 
-1) Grouping Data: We can group the data to simplify the category. Suppose, if we need check orders by age, our data has a age range between 12 to 51. We might need to check sales for each age, which in turn is a tedious and useless task. Instead, we can classify them as teenager 
+**1) Grouping Data:** We can group the data to simplify the category. Suppose, if we need check orders by age, our data has a age range between 12 to 51. We might need to check sales for each age, which in turn is a tedious and useless task. Instead, we can classify them as teenager 
